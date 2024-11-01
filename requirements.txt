@@ -1,0 +1,10 @@
+customtkinter
+numpy
+matplotlib
+pymap3d
+geomag
+opencv-python
+scipy
+rasterio
+geojson
+geopy
